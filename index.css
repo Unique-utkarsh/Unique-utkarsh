@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800;900;1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800;900&display=swap');
 
 * {
   padding: 0;
@@ -12,15 +12,12 @@ body {
   position: relative;
   height: 100vh;
   background-color: #9a99f2;
-
 }
 
 .swiper-container {
   border-radius: 5px;
   width: 70vw;
   overflow: hidden;
-  height: fit-content;
-  height: fit-content;
   font-size: 50px;
   position: relative;
   padding-bottom: 50px;
@@ -29,27 +26,22 @@ body {
 
 .swiper-slide {
   width: auto;
-  height: fit-content;
   display: flex;
-  height: auto;
   border-radius: 5px;
   overflow: hidden;
   align-items: flex-start;
   flex-direction: column;
-  padding: 0px;
-  font-family: Nunito;
+  padding: 0;
+  font-family: 'Nunito', sans-serif;
   background-color: white;
-
 }
 
 .swiper-slide .ImgHolder {
   background-color: #4361ee;
   display: flex;
   width: 100%;
-  height: auto;
   padding: 30px;
   border-bottom-left-radius: 20px;
-
 }
 
 .ContentHolder::before {
@@ -59,8 +51,8 @@ body {
   height: 50px;
   position: absolute;
   top: -5px;
-  z-index: -1;
-  right: 0px;
+  z-index: 1;
+  right: 0;
 }
 
 .ContentHolder {
@@ -111,25 +103,21 @@ body {
   }
 }
 
-@media (max-width:500px) {
-  .swiper-container {
-    width: 70vw;
-  }
-}
-
 @media (max-width:300px) {
   .swiper-container {
     width: 100%;
   }
 
   .swiper-slide {
-    border-radius: 0px;
+    border-radius: 0;
   }
 
   .swiper-container .ImgHolder {
-    border-radius: 0px;
+    border-bottom-left-radius: 0;
   }
-  .ContentHolder{
-    border-radius: 0px;
+
+  .ContentHolder {
+    border-top-right-radius: 0;
   }
 }
+
