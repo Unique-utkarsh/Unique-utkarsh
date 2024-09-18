@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p>Instagram</p>
 https://shorturl.at/9DrMz
-
+<br></br>
 <p>Linkdin</p>
 https://shorturl.at/Zxqwr
 <p align="left">
