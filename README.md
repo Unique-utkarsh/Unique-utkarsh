@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>Instagram</p>
-**https://shorturl.at/9DrMz**
+**https://shorturl.at/9DrMz
 <p>Linkdin</p>
-**https://shorturl.at/Zxqwr**
+**https://shorturl.at/Zxqwr
 <p align="left">
 </p>
 
