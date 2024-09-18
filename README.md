@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **utkarshdwivedi50718@gmail.com**
 
-<h3 align="left">Connect with me:</h3>https://www.instagram.com/unique_utkarsh1?igsh=MThkc3ZuNHN3YjV4ag==
+<h3 align="left">Connect with me:</h3><h3 https://shorturl.at/9DrMz </h3>
 <p align="left">
 </p>
 
