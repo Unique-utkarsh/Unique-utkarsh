@@ -8,7 +8,10 @@
 - 📫 How to reach me **utkarshdwivedi50718@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<h4 https://shorturl.at/9DrMz /h4>
+<p>Instagram</p>
+**https://shorturl.at/9DrMz**
+<p>Linkdin</p>
+**https://shorturl.at/Zxqwr**
 <p align="left">
 </p>
 
